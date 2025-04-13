@@ -1,0 +1,347 @@
+{
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/1",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment1",
+          "http://dev.llgc.org.uk/sas/full_text": "comment1"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>Yo bitch Ja Rule is more succesful then you'll ever be whats up with you and hating you sad motherfuc...</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://www.cartadiroma.org/wp-content/uploads/2016/05/hate.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/2",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment2",
+          "http://dev.llgc.org.uk/sas/full_text": "comment2"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>The title is fine as it is, IMO.</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://www.rismedia.com/wp-content/uploads/2020/07/magnifying-glass-looking-to-the-word-title-made-with-letter-game-on-picture-id1224819438.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/3",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment3",
+          "http://dev.llgc.org.uk/sas/full_text": "comment3"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>COCKSUCKER BEFORE YOU PISS AROUND ON MY WORK.</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://ctl.s6img.com/society6/img/ojKw2-XZbIz7wAgKDl_cPu5tiaU/h_700,w_700/metal-prints/1x1/front/~artwork/s6-0029/a/14023577_16772511?width=3024&crop=center"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/4",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment4",
+          "http://dev.llgc.org.uk/sas/full_text": "comment4"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>Bye! Don't look, we're not your friends anymore.</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://thumbs.dreamstime.com/b/not-friends-anymore-two-angry-women-looking-each-other-sitting-different-sides-couch-32741929.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/5",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment5",
+          "http://dev.llgc.org.uk/sas/full_text": "comment5"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>REDIRECT Talk:Voydan Pop Georgiev- Chernomorets</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://www.boostability.com/wp-content/uploads/2011/01/301-redirect.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/6",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment6",
+          "http://dev.llgc.org.uk/sas/full_text": "comment6"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>I hope you die a slow and painful death, you worthless...</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://cdn.tinybuddha.com/wp-content/uploads/2015/05/Sad-Man.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/7",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment7",
+          "http://dev.llgc.org.uk/sas/full_text": "comment7"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>Don't argue with me or I will kill you!</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://enidajohnson.com/wp-content/uploads/2012/07/no_arguing.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/8",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment8",
+          "http://dev.llgc.org.uk/sas/full_text": "comment8"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>FUCK YOUR FILTHY MOTHER IN THE ASS, DRY!</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://media.istockphoto.com/id/1345030885/vector/swear-word-speech-bubble-set.jpg?s=612x612&w=0&k=20&c=v7yCX_e1tGnBn2g6FYXEmvXX-91HLHVp7bR1rLJ-kxw="
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/9",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment9",
+          "http://dev.llgc.org.uk/sas/full_text": "comment9"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>Your kind is ruining this country, you worthless gay!</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://m.media-amazon.com/images/I/419cnzm0czL._UF894,1000_QL80_.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+      ],
+      "dcterms:creator": "https://example.org/user/group-project",
+      "dcterms:created": "2025-04-13T00:00:00Z",
+      "dcterms:modified": "2025-04-13T00:00:00Z",
+      "@id": "https://example.org/annotation/anno/10",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "chars": "comment10",
+          "http://dev.llgc.org.uk/sas/full_text": "comment10"
+        },
+        {
+          "@type": "oa:Tag",
+          "chars": "public domain image",
+          "http://dev.llgc.org.uk/sas/full_text": "public domain image"
+        },
+        {
+          "@type": "dctypes:Text",
+          "format": "text/html",
+          "chars": "<p>You are a stupid idiot.</p>"
+        }
+      ],
+      "on": [
+        {
+          "@type": "oa:SpecificResource",
+          "full": "https://thumbs.dreamstime.com/b/brainless-crazy-guy-vector-cartoon-illustration-idiot-33095760.jpg"
+        }
+      ]
+    }
+  ],
+  "@id": "https://example.org/annotations/updated-toxic-comments.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
